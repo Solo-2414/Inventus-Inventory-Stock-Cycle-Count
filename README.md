@@ -83,7 +83,7 @@ inventus-inventory/
 
 ## ✍️ Author
 
-* **Capili, Bayani, Caindoy** – [@yourgithub](https://github.com/yourgithub)
+* **Capili, Bayani, Caindoy** – [@yourgithub](https://github.com/Solo-2414)
 
 ---
  
